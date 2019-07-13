@@ -1,0 +1,27 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:diamond"
+		},
+		"title": {
+			"text": "Bas' Extra's",
+			"bold": true,
+			"color": "gold"
+		},
+		"description": {
+			"text": "Installed datapacks from Bas.",
+			"color": "white",
+			"bold": false,
+			"italic": true
+		},
+		"background": "minecraft:textures/block/quartz_block_bottom.png",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"frame": "challenge"
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

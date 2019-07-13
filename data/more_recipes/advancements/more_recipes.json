@@ -1,0 +1,28 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:suspicious_stew"
+		},
+		"title": {
+			"text": "More Recipes",
+			"color": "white",
+			"bold": false,
+			"italic": false
+		},
+		"description": {
+			"text": "Adds a few handy recipes to the game.",
+			"color": "green",
+			"bold": false,
+			"italic": true
+		},
+		"show_toast": false,
+		"announce_to_chat": false,
+		"frame": "goal"
+	},
+	"parent": "bm:root",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
